@@ -27,17 +27,17 @@ body {
   font-weight: bold;
   color: hsl(305, 99%, 30%);
   text-align: center;
-  margin-top: 20px;
+  margin-top: 10px;
   margin-bottom: 0px;
 }
 
 .text {
   font-family: 'Nunito';
-  font-size: 25px;
+  font-size: 15px;
   font-weight: bold;
   color: rgb(163, 7, 142);
   text-align: center;
-  margin-top: 20px;
+  margin-top: 10px;
   margin-bottom: 0px;
 }
 
