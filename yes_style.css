@@ -4,7 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #F8C8DC;
+  background-color: #000000;
 }
 
 
@@ -25,7 +25,7 @@ body {
   font-family: 'Nunito';
   font-size: 50px;
   font-weight: bold;
-  color: #D2691E;
+  color: hsl(305, 99%, 30%);
   text-align: center;
   margin-top: 20px;
   margin-bottom: 0px;
@@ -35,7 +35,7 @@ body {
   font-family: 'Nunito';
   font-size: 25px;
   font-weight: bold;
-  color: #D2691E;
+  color: rgb(163, 7, 142);
   text-align: center;
   margin-top: 20px;
   margin-bottom: 0px;

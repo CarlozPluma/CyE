@@ -3,7 +3,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #F8C8DC;
+  background-color: hsl(0, 0%, 0%);
 }
 
 
@@ -22,9 +22,9 @@ body {
 
 .header_text {
   font-family: 'Nunito';
-  font-size: 50px;
+  font-size: 25px;
   font-weight: bold;
-  color: #D2691E;
+  color: #db0092;
   text-align: center;
   margin-top: 20px;
   margin-bottom: 0px;
